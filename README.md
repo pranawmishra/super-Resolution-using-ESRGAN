@@ -47,11 +47,13 @@ In summary, while the PSNR values provide insights into the quality of reconstru
 
 Feel free to customize this section based on your specific preferences and any additional information you want to include.
 
-### Link to the google drive video link  
-I have also provided link to google drive folder where all the original video with its corresponding high resolution generated are located.  
+### Link to the Google Drive video link  
+I have also provided a link to the Google Drive folder where all the original videos with their corresponding high-resolution video generated are located.  
 -[Google drive video folder](https://drive.google.com/drive/folders/1AN_zPEvt1mUROVhLNyIsGbetRNiU6J_n?usp=sharing)  
-click on above link to access all the test videos.  
+click on the above link to access all the test videos.  
 
 ## Sample Input and Output attached
 -[test video 1](https://drive.google.com/file/d/1NVU1U9Fzo9VHDRVa_bxeL6EpRxbNPMEU/view?usp=sharing)  
 -[test video 1 output](https://drive.google.com/file/d/1jECWDRetBmAy87_Ge0HyBakuQC3vHP7q/view?usp=sharing)  
+
+### Note: I have utilized the Google Colab environment for development purposes to leverage the GPU to generate each frame at a faster rate.
