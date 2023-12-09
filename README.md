@@ -1,6 +1,8 @@
 # Real-ESRGAN Video Super-Resolution and Quality Evaluation
 
-This repository demonstrates the usage of Real-ESRGAN for video super-resolution in Google Colab and provides a script to calculate quality metrics (PSNR and SSIM) for the generated videos.
+This repository demonstrates the usage of Real-ESRGAN for video super-resolution in Google Colab and provides a script to calculate quality metrics (PSNR and SSIM) for the generated videos.  
+
+### check super_resolution.ipynb for complete code
 
 ## Getting Started
 ### Clone Real-ESRGAN Repository
