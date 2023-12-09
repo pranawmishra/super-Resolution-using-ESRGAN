@@ -19,7 +19,7 @@ Perform video super-resolution using Real-ESRGAN
 
 We need to run the below command for each of the videos to generate its corresponding high-resolution video.  
 
-'''bash
+'''console
 ! python inference_realesrgan_video.py -i upload/30_sec_videos..mp4 -n realesr-animevideov3 -s 2 --suffix outx2
 '''
 ### Arguments  
