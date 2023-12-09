@@ -24,22 +24,22 @@ Average SSIM (Structural Similarity Index): 0.81
 The PSNR value of 16.82 dB suggests that there may be a noticeable loss in quality compared to the original video. However, the relatively high SSIM value of 0.81 indicates a considerable structural similarity between the original and generated videos.
 
 ### Test Video 2 (test2.mp4)
-Average PSNR (Peak Signal-to-Noise Ratio): 32.82 dB
-Average SSIM (Structural Similarity Index): 0.98
+Average PSNR (Peak Signal-to-Noise Ratio): 32.82 dB  
+Average SSIM (Structural Similarity Index): 0.98  
 The high PSNR value of 32.82 dB suggests a high quality of reconstruction, indicating a close match between the generated and original videos. The SSIM value of 0.98 further reinforces the high structural similarity observed in this case.
 
 ### Test Video 3 (test3.mp4)
-Average PSNR (Peak Signal-to-Noise Ratio): 30.29 dB
-Average SSIM (Structural Similarity Index): 0.93
+Average PSNR (Peak Signal-to-Noise Ratio): 30.29 dB  
+Average SSIM (Structural Similarity Index): 0.93  
 The PSNR value of 30.29 dB suggests a good quality of reconstruction, while the SSIM value of 0.93 indicates a high structural similarity between the original and generated videos.
 
 ### Interpretation
-PSNR Interpretation:
+PSNR Interpretation:  
 
 PSNR values are expressed in decibels (dB), and higher values are generally considered better. A common range for good quality might be between 20 and 30 dB.
-SSIM Interpretation:
+SSIM Interpretation:  
 
-SSIM values range from -1 to 1, where 1 indicates perfect similarity. Values closer to 1 imply a high level of structural similarity.
-In summary, while the PSNR values provide insights into the quality of reconstruction, the SSIM values emphasize the structural similarity between the original and generated videos. Visual inspection of the results is also recommended for a comprehensive assessment.
+SSIM values range from -1 to 1, where 1 indicates perfect similarity. Values closer to 1 imply a high level of structural similarity.  
+In summary, while the PSNR values provide insights into the quality of reconstruction, the SSIM values emphasize the structural similarity between the original and generated videos. Visual inspection of the results is also recommended for a comprehensive assessment.  
 
 Feel free to customize this section based on your specific preferences and any additional information you want to include.
