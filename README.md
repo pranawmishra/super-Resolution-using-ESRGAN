@@ -36,7 +36,7 @@ The PSNR value of 30.29 dB suggests a good quality of reconstruction, while the 
 ### Interpretation
 PSNR Interpretation:  
 
-PSNR values are expressed in decibels (dB), and higher values are generally considered better. A common range for good quality might be between 20 and 30 dB.
+PSNR values are expressed in decibels (dB), and higher values are generally considered better. A common range for good quality might be between 20 and 30 dB.  
 SSIM Interpretation:  
 
 SSIM values range from -1 to 1, where 1 indicates perfect similarity. Values closer to 1 imply a high level of structural similarity.  
