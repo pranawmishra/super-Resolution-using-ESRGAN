@@ -19,8 +19,8 @@ Perform video super-resolution using Real-ESRGAN
 Calculate PSNR and SSIM for the generated videos
 
 ### Test Video 1 (test1.mp4)
-Average PSNR (Peak Signal-to-Noise Ratio): 16.82 dB <br>
-Average SSIM (Structural Similarity Index): 0.81 <br>
+Average PSNR (Peak Signal-to-Noise Ratio): 16.82 dB  
+Average SSIM (Structural Similarity Index): 0.81  
 The PSNR value of 16.82 dB suggests that there may be a noticeable loss in quality compared to the original video. However, the relatively high SSIM value of 0.81 indicates a considerable structural similarity between the original and generated videos.
 
 ### Test Video 2 (test2.mp4)
